@@ -1,0 +1,16 @@
+Hydrogen is the chemical element with the symbol H and atomic number 1. Hydrogen is the lightest element. 
+At standard conditions hydrogen is a gas of diatomic molecules having the formula H2. 
+It is colorless, odorless, tasteless,[8] non-toxic, and highly combustible. 
+Hydrogen is the most abundant chemical substance in the universe, constituting roughly 75% of all normal matter.
+Stars such as the Sun are mainly composed of hydrogen in the plasma state. 
+Most of the hydrogen on Earth exists in molecular forms such as water and organic compounds. 
+For the most common isotope of hydrogen (symbol 1H) each atom has one proton, one electron, and no neutrons.
+
+Now, let's talk about oxygen:
+
+Oxygen is the chemical element with the symbol O and atomic number 8. 
+It is a member of the chalcogen group in the periodic table, a highly reactive nonmetal, and an oxidizing agent that readily forms oxides with most elements as well as with other compounds. 
+Oxygen is Earth's most abundant element, and after hydrogen and helium, it is the third-most abundant element in the universe. 
+At standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula O2. 
+Diatomic oxygen gas currently constitutes 20.95% of the Earth's atmosphere, though this has changed considerably over long periods of time. 
+Oxygen makes up almost half of the Earth's crust in the form of oxides.
